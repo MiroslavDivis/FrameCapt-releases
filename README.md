@@ -9,6 +9,12 @@ Everything stays on your PC – no cloud, no account.
 
 This repository contains the public releases and the list of changes. The source code is not public.
 
+| | |
+| --- | --- |
+| ![Scrolling capture](images/scrolling-capture.jpg)<br>**Scrolling capture** – a whole page in one image | ![Step-by-step guides](images/editor-annotated.jpg)<br>**Step-by-step guides** – numbered steps, callouts, arrows |
+| ![Privacy masks](images/privacy-mask.jpg)<br>**Privacy masks** – hidden permanently in the saved file | ![Save folders](images/save-profile.jpg)<br>**One-key save** – up to 10 folders |
+| ![Combine captures](images/combine.jpg)<br>**Combine captures** – compare before and after | ![Straighten](images/straighten.jpg)<br>**Straighten** – fix a crooked photo with one drag |
+
 ## Download
 
 | | |
