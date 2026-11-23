@@ -3,6 +3,10 @@
 Downloads: [Microsoft Store](https://apps.microsoft.com/detail/9NGWMW4C9QJM) (updates automatically) ·
 [Releases](https://github.com/MiroslavDivis/FrameCapt-releases/releases) · [framecapt.com](https://www.framecapt.com)
 
+## 1.1.2 – 23 November 2026
+
+- Microsoft Store version: the taskbar icon no longer shows the Windows accent colour in its rounded corners.
+
 ## 1.1.1 – 23 November 2026
 
 - Settings → Licence shows the **Computer ID**. Click it to copy the licence details for support
