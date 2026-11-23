@@ -3,6 +3,14 @@
 Downloads: [Microsoft Store](https://apps.microsoft.com/detail/9NGWMW4C9QJM) (updates automatically) ·
 [Releases](https://github.com/MiroslavDivis/FrameCapt-releases/releases) · [framecapt.com](https://www.framecapt.com)
 
+## 1.1.3 – 23 November 2026
+
+- Editor toolbar: separate buttons for region, window, full screen and scrolling capture, delay and **Open image**.
+- The clipboard always holds the latest result (copied shortly after every change, retried if another program holds it).
+- Texts and callout texts can be edited again later: click a selected text, double-click it, or press Enter / F2.
+- Scrolling capture: click the window to scroll (no region dragging); fixed a loop that made the screens flicker.
+- The start bar shows the same labelled buttons as the bar over a capture.
+
 ## 1.1.2 – 23 November 2026
 
 - Microsoft Store version: the taskbar icon no longer shows the Windows accent colour in its rounded corners.
