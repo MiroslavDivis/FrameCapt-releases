@@ -3,6 +3,12 @@
 Downloads: [Microsoft Store](https://apps.microsoft.com/detail/9NGWMW4C9QJM) (updates automatically) ·
 [Releases](https://github.com/MiroslavDivis/FrameCapt-releases/releases) · [framecapt.com](https://www.framecapt.com)
 
+## 1.1.4 – 23 November 2026
+
+- **Paste image from clipboard** (Ctrl+V) on the start bar: annotate a copied picture right away, without taking a capture first.
+- Editor toolbar: **Open image** now sits on the right, next to Save to file.
+- When a licence or team trial ends, FrameCapt says so once, keeps all saved captures and settings and offers to buy a licence.
+
 ## 1.1.3 – 23 November 2026
 
 - Editor toolbar: separate buttons for region, window, full screen and scrolling capture, delay and **Open image**.
