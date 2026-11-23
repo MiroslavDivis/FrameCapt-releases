@@ -3,6 +3,11 @@
 Downloads: [Microsoft Store](https://apps.microsoft.com/detail/9NGWMW4C9QJM) (updates automatically) ·
 [Releases](https://github.com/MiroslavDivis/FrameCapt-releases/releases) · [framecapt.com](https://www.framecapt.com)
 
+## 1.1.5 – 23 November 2026
+
+- **Drag and drop**: drop an image on the start bar to start editing it right away.
+- Drop a FrameCapt capture saved on the same PC into the editor and its arrows, texts and other annotations stay editable.
+
 ## 1.1.4 – 23 November 2026
 
 - **Paste image from clipboard** (Ctrl+V) on the start bar: annotate a copied picture right away, without taking a capture first.
