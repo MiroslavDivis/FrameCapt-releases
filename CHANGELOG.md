@@ -3,6 +3,12 @@
 Downloads: [Microsoft Store](https://apps.microsoft.com/detail/9NGWMW4C9QJM) (updates automatically) ·
 [Releases](https://github.com/MiroslavDivis/FrameCapt-releases/releases) · [framecapt.com](https://www.framecapt.com)
 
+## 1.1.6 – 27 November 2026
+
+- **Combine captures**: a picture placed left of or above the capture now enlarges the canvas on that side – you can draw on it and it is saved complete.
+- **Straighten** with inserted pictures turns and crops the whole composition; one undo brings the pictures back.
+- **Mouse wheel**: wide captures scroll sideways; Shift+wheel and the horizontal wheel or touchpad always scroll sideways.
+
 ## 1.1.5 – 23 November 2026
 
 - **Drag and drop**: drop an image on the start bar to start editing it right away.
